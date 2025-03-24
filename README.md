@@ -6,13 +6,11 @@ Bem-vindo ao repositório da disciplina de **Programação Web**! Aqui você enc
 - **📖 Disciplina**: Programação Web  
 - **📅 Período**: 2025.1  
 - **👨‍🏫 Professor**: Alexandro  
-- **👨‍🎓 Aluno**: Heder Moreira David  
+- **👨‍🎓 Aluno**: Heder M. David  
 
 ## 📂 O que você encontrará aqui?
 Este repositório contém:  
-✅ Exercícios práticos  
-✅ Projetos desenvolvidos ao longo do semestre  
-✅ Anotações e materiais de estudo  
+✅ Listas de exercícios; 
 
 ## 🚀 Como Usar
 1. Clone o repositório:
