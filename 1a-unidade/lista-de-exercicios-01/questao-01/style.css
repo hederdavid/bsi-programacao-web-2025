@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+ol li {
+  text-align: justify;
+}
+
+p {
+  text-align: justify;
+}

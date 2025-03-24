@@ -1,0 +1,13 @@
+F�rmula de Bhaskara
+
+Uma equa��o do segundo grau cujos coeficientes sejam n�meros reais ou complexos possui duas solu��es, chamadas de ra�zes da equa��o. As ra�zes s�o dadas pela seguinte f�rmula, conhecida no Brasil pelo nome de F�rmula de Bhaskara:
+
+sendo a, b e c os mesmos coeficientes da equa��o de segundo grau, e o s�mbolo indicando que uma das solu��es � obtida pela soma e a outra pela diferen�a entre os termos relacionados.
+
+A partir desta f�rmula, h� tr�s possibilidades da resolu��o da equa��o:
+
+Se b2 - 4ac, comumente abreviado como, for positivo, a equa��o tem duas ra�zes reais e distintas;
+Se a for igual a zero, a equa��o possui apenas uma raiz real; e
+Se a for negativo, a equa��o tem duas ra�zes complexas e distintas.
+
+A F�rmula de Bhaskara � utilizada para determinar as ra�zes de uma equa��o quadr�tica. A f�rmula recebe este nome, mas � conhecida em outros pa�ses simplesmente como a f�rmula geral para resolu��o da equa��o polinomial de segundo grau, sem qualquer refer�ncia a Bhaskara, que foi um matem�tico e astr�nomo indiano do s�culo XII. Mesmo porque, a descoberta da f�rmula normalmente � creditada aos babil�nios antigos, e sua primeira formaliza��o ao matem�tico persa Al-Khwarizmi.
